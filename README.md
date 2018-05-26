@@ -1,3 +1,3 @@
-# blogspot
+# blogger
 Blog
 Script Blog 
